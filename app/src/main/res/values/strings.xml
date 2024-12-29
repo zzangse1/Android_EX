@@ -1,3 +1,8 @@
 <resources>
 	<string name="app_name">Android_EX</string>
+	<string name="room_add_label">1. Add</string>
+	<string name="room_update_label">2. Update</string>
+	<string name="room_delete_label">3. Delete</string>
+	<string name="room_select_all">4. Select_ALL</string>
+	<string name="room_select_min_price">5. Select_MIN_PRICE</string>
 </resources>
